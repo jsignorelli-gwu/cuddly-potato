@@ -1,0 +1,9 @@
+Plan:
+
+
+- Read in Airfoil geometries / points from online website and plot it
+- Have user select points on the plot to be booms
+- Have user set properties of the booms
+- Have user set thickness and E? of each skin
+- Run an algorithm to figure out all paths between booms (applying graph theory)
+- Get the lengths of each skin section
